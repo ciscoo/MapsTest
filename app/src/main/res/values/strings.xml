@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MapsTest</string>
+    <string name="checked_button">Checked</string>
+    <string name="unchecked_button">Unchecked</string>
+    <string name="maps_dialog">Google Maps is not installed, install it?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
